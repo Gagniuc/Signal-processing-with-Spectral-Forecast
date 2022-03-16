@@ -6,7 +6,7 @@ This Javascript project uses my own mathematical model published in the journal 
 
 # Screenshot
 
-<kbd><img src="https://github.com/Gagniuc/Signal-processing-with-Spectral-Forecast/blob/main/Spectral%20forecast%20for%20signals.png" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Signal-processing-with-Spectral-Forecast/blob/main/sfs.png?raw=true" /></kbd>
 
 # References
 
