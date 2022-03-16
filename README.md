@@ -4,8 +4,6 @@ This Javascript project uses my own mathematical model published in the journal 
 
 **Live demo**: https://gagniuc.github.io/Signal-processing-with-Spectral-Forecast/
 
-# Screenshot
-
 <kbd><img src="https://github.com/Gagniuc/Signal-processing-with-Spectral-Forecast/blob/main/sfs.png?raw=true" /></kbd>
 
 # References
